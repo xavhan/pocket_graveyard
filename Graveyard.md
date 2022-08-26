@@ -3,6 +3,7 @@ Graveyard
 
 *(add on top)*
 
+- https://browser.engineering/
 - https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 - https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code
 - https://codyb.co/articles/a-technical-breakdown-of-react-three-fiber
