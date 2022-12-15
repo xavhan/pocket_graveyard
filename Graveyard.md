@@ -3,6 +3,15 @@ Graveyard
 
 *(add on top)*
 
+- https://lafor.ge/biscuit-1
+- https://retool.com/blog/erp-for-engineers
+- https://fadamakis.medium.com/book-recommendations-for-software-engineers-8b2cba7c6593
+- https://typefully.com/DanHollick/blending-modes-KrBa0JP
+- https://prateeksurana.me/blog/future-of-rendering-in-react
+- https://hidde.blog/dialog-modal-popover-differences/
+- https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06
+- https://archiloque.net/blog/development-w40k
+- https://github.com/jlevy/the-art-of-command-line/blob/master/README-fr.md
 - https://browser.engineering/
 - https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 - https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code
